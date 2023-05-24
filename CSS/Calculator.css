@@ -1,0 +1,41 @@
+body
+{
+    
+}
+
+.calculator
+{
+    border: 3px solid black;
+    margin-top :5%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 50%;
+    background-color: black;
+}
+
+section h5
+{
+    text-align: center;
+    color: white;
+}
+
+#show
+{
+    height: 100px;
+    width: 100%;
+    border: 3px solid black;
+    background-color: whitesmoke;
+}
+
+.calButtons button 
+{
+	width: 100%;
+    padding: 10px;
+	height: 60px;
+    margin-top: 30px;
+}
+
+.doubleRow button
+{
+    height : 165%;
+}
